@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Money meets social media.",
+    "subtitle": "Giving kudos just got easier. From content creators to hospitality staff, use some of your favourite social platforms to show your appreciation Send and receive money instantly in a tweet or message - no hidden fees.",
+    "img": "https://bottlepay.com/_nuxt/assets/images/page-index/iphone-transactions-2d5d90a.webp",
+    "direction": "row"
+  },
+  {
+    "id": "2",
+    "title": "Bitcoin on tap.",
+    "subtitle": "Buy and store bitcoin with a single slide. Or set up recurring trades at intervals of your choice. Whether you're new to the space or a seasoned pro, we've got you covered - you'll love stacking those sats.",
+    "img": "https://bottlepay.com/_nuxt/assets/images/page-index/Bitcoin-on-tap-phone-eb50028.webp",
+    "direction": "row-reverse"
+  },
+  {
+    "id": "3",
+    "title": "Like lightning in a bottle.",
+    "subtitle": "Think fast, transact even faster. Deposits, payments, and trades at speeds way ahead of the competition. And with a live Bitcoin market price dashboard right at your fingertips, you never need to leave the app.",
+    "img": "https://bottlepay.com/_nuxt/assets/images/page-index/Like-lightning-index-3df2e9d.webp",
+    "direction": "row"
+  },
+  {
+    "id": "4",
+    "title": "Privacy, secured.",
+    "subtitle": "Make payments online without ever revealing your identity - control your privacy and what data you want to share.",
+    "img": "https://bottlepay.com/_nuxt/assets/images/page-index/Privacy-secured-phone-d22b158.webp",
+    "direction": "row-reverse"
+  }
+]
